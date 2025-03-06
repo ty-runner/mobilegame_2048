@@ -118,7 +118,7 @@ extension GameScene {
     
     override func mouseUp(with event: NSEvent) {
         self.makeSpinny(at: event.location(in: self), color: SKColor.red)
-    }
+    } //clicker stuff, test comment
 
 }
 #endif
